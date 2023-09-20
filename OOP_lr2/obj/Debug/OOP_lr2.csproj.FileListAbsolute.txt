@@ -1,0 +1,7 @@
+D:\polytech\OOP\OOP_lr2\OOP_lr2\bin\Debug\OOP_lr2.exe.config
+D:\polytech\OOP\OOP_lr2\OOP_lr2\bin\Debug\OOP_lr2.exe
+D:\polytech\OOP\OOP_lr2\OOP_lr2\bin\Debug\OOP_lr2.pdb
+D:\polytech\OOP\OOP_lr2\OOP_lr2\obj\Debug\OOP_lr2.csproj.AssemblyReference.cache
+D:\polytech\OOP\OOP_lr2\OOP_lr2\obj\Debug\OOP_lr2.csproj.CoreCompileInputs.cache
+D:\polytech\OOP\OOP_lr2\OOP_lr2\obj\Debug\OOP_lr2.exe
+D:\polytech\OOP\OOP_lr2\OOP_lr2\obj\Debug\OOP_lr2.pdb
